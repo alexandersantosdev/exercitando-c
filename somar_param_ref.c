@@ -15,7 +15,6 @@ int main()
     return 0;
 }
 
-//passando par�metro por refer�ncia
 void somar(int n1, int n2, int *resultado)
 {
     *resultado = n1 + n2;
