@@ -3,7 +3,8 @@
 
 void somar(int n1, int n2, int *resultado);
 
-int main(){
+int main()
+{
 
     int n1 = 10;
     int n2 = 20;
@@ -14,7 +15,8 @@ int main(){
     return 0;
 }
 
-//passando parâmetro por referência
-void somar(int n1, int n2, int *resultado){
+//passando parï¿½metro por referï¿½ncia
+void somar(int n1, int n2, int *resultado)
+{
     *resultado = n1 + n2;
 }
