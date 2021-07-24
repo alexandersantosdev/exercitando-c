@@ -7,4 +7,5 @@
     - arrays_uni_bi.c -> Leitura de valores em array e matriz.
     - media_array_bi.c -> Cálculo de média de aluno usando matriz de 3 dimensões. 
     - fatorial.c -> Cálculo de fatorial com recursividade.
+    - struct.c -> Usando struct para representar dado complexo.
 
